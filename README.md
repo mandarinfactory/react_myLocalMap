@@ -21,7 +21,7 @@ https://react-mylocalmap.web.app/
 
 ## 📌주요 기능
 ### 메뉴클릭시, 상점리스트 및 지도에 마커생성 - <a href="https://github.com/mandarinfactory/react_movieSearch/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4,--%EC%83%81%EC%98%81%EC%98%88%EC%A0%95%EC%9E%91)">위키</a>
-- 메뉴클릭시, 해당 상가분류에 따라 지도내에 있는 상가리스트를 데이터로 받게 했습니다.
+- 메뉴클릭시, 해당 상가분류에 따라 상가리스트를 데이터로 받게 했습니다.
 - 해당 데이터를 이용해서 오른쪽에 상점리스트, 지도에는 마커를 생성시키게 구현했습니다.
 - 상가데이터는 공공데이터API를 이용했으며, 지도는 네이버지도 API를 이용했습니다.
 
