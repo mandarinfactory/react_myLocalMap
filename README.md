@@ -17,7 +17,7 @@ https://react-mylocalmap.web.app/
 
 ## ⚙️ 사용API
 - 네이버지도API(https://www.ncloud.com/product/applicationService/maps)
-- 공공데이터API(https://www.data.go.kr/iim/api/selectAPIAcountView.do)
+- 공공데이터API(https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15012005)
 
 ## 📌주요 기능
 ### 박스오피스 / 상영예정작 - <a href="https://github.com/mandarinfactory/react_movieSearch/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4,--%EC%83%81%EC%98%81%EC%98%88%EC%A0%95%EC%9E%91)">위키</a>
