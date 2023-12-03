@@ -11,7 +11,7 @@ https://react-mylocalmap.web.app/
 
 ## ⚙️ 개발환경
 - 바닐라JS
-- React JS
+- React JS/상태관리(context API)
 - tailwind CSS
 - firebase(배포)
 
